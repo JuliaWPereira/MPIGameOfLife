@@ -1,4 +1,4 @@
-<h1> Projeto 3 de Programaçâo Concorrente e Distribuída</h1>
+<h1> Projeto 3 de Programação Concorrente e Distribuída</h1>
 
 <p>Especificação técnica da maquina utilizada nos testes:</p>
 
