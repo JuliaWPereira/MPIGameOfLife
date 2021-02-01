@@ -12,4 +12,4 @@
 
 <p> Nesta atividade foi realizada a implementação com MPI fazendo divisâo de domínio unidimensional e realizando comunicaçâo entre os diferentes domínios para possibilitar o cálculo da próxima geração.</p> 
 
-<p> Vídeo Explicativo: <a href="">Atividade MPI</a></<p>
+<p> Vídeo Explicativo: <a href="https://drive.google.com/file/d/10tK-oAQLREW5bCi17rpOGYJNtwemKhAD/view?usp=sharing">Atividade MPI</a></<p>
